@@ -4,11 +4,11 @@ I'm Øystein Røstvik. I'm currently studying front-end development at Noroff VO
 
 Coding languages
 
-** HTML
+* HTML
 
-** CSS
+* CSS
 
-** Vanilla JavaScript
+* Vanilla JavaScript
 
 <!--
 **Tanix98/Tanix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
