@@ -3,7 +3,7 @@
 My name is Øystein Røstvik. I'm currently studying front-end development at Noroff VOC in Kristiansand, learning all about designing and building websites.  You can take a look at all my previous projects and more by visiting my website!
 
 
-**Coding languages
+**Coding languages**
 * HTML
 * CSS
 * Vanilla JavaScript
