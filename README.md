@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Øystein Røstvik. I'm currently studying front-end development at Noroff VOC in Kristiansand. 
+My name is Øystein Røstvik. I'm currently studying front-end development at Noroff VOC in Kristiansand, learning all about designing and building websites. 
 
 Coding languages
 * HTML
