@@ -5,9 +5,7 @@ I'm Øystein Røstvik. I'm currently studying front-end development at Noroff VO
 Coding languages
 
 * HTML
-
 * CSS
-
 * Vanilla JavaScript
 
 <!--
