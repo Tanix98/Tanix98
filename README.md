@@ -5,7 +5,7 @@ My name is Øystein Røstvik. I'm currently studying front-end development at No
 <h2 align="center">
   **Skills**
  </h2>
- <p>
+ <p align="center">
 HTML <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 CSS <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 Vanilla JavaScript <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
