@@ -1,7 +1,7 @@
 <h2 align="center">
   Hello! 👋
 </h2>
-<p style="width: 200px;">
+<p>
   My name is Øystein Røstvik. I'm currently studying front-end development at Noroff VOC in Kristiansand, learning all about designing and building websites.  You can     take a look at all my previous projects and more by visiting my website <a href="https://portfolio-oystein-rostvik.netlify.app">here!</a>
 </p>
 <p align="center">
