@@ -6,7 +6,7 @@ My name is Øystein Røstvik. I'm currently studying front-end development at No
 * HTML <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 * CSS <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 * Vanilla JavaScript <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-* WordPress <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+* <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> WordPress
 
 <!--
 **Tanix98/Tanix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
