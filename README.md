@@ -17,6 +17,7 @@
  </p>
 
 <div align="center">
+  
   |   Planning    |   Designing   |    Coding     |      CMS      |
   |     :---:     |     :---:     |     :---:     |     :---:     |
   |     Kanban    |    Figma      |     HTML      |   WordPress   |
@@ -26,6 +27,7 @@
 </div>
 
 <div align="center">
+  
 Planning | Designing | Coding | CMS
 :---: | :---: | :---: | :---:
 Kanban board | Figma | HTML | WordPress
