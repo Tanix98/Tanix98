@@ -8,7 +8,6 @@
 <p align="center">
   <b>Skills</b>
 </p>
-
 <div align="center">
   
   |   Planning    |   Designing   |    Coding     |      CMS      |
