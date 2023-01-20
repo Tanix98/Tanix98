@@ -16,6 +16,14 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress icon" title="WordPress"/>
  </p>
 
+### Planning:
+- Kanban board
+- Gantt chart
+
+### Desining:
+- Figma
+- Adobe Xd
+
 <!--
 **Tanix98/Tanix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
