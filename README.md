@@ -8,13 +8,6 @@
 <p align="center">
   <b>Skills</b>
 </p>
-<p align="center">
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 icon" title="HTML5"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 icon" title="CSS3"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap"/>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress icon" title="WordPress"/>
- </p>
 
 <div align="center">
   
