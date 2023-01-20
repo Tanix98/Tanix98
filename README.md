@@ -16,11 +16,27 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress icon" title="WordPress"/>
  </p>
 
-<div>
-  <div style="background-color: white">
+<div display="flex">
+  <div>
     <p style="bold">Planning:</p>
     <p>Kanban board</p>
     <p>Gantt chart</p>
+  </div>
+  <div>
+    <p style="bold">Designing:</p>
+    <p>Figma</p>
+    <p>Adobe Xd</p>
+  </div>
+  <div>
+    <p style="bold">Coding:</p>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>JavaScript</p>
+    <p>Bootstrap</p>
+  </div>
+  <div>
+    <p style="bold">CMS:</p>
+    <p>WordPress</p>
   </div>
 </div>
 
