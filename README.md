@@ -16,9 +16,13 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress icon" title="WordPress"/>
  </p>
 
-### Planning:
-- Kanban board
-- Gantt chart
+<div>
+  <div>
+    <p style="font-weight: bold">Planning</p>
+    <p>Kanban board</p>
+    <p>Gantt chart</p>
+  </div>
+</div>
 
 ### Designing:
 - Figma
