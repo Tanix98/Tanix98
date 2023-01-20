@@ -15,19 +15,20 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress icon" title="WordPress"/>
  </p>
- 
-|   Planning    |   Designing   |    Coding     |      CMS      |
-|     :---:     |     :---:     |     :---:     |     :---:     |
-|     Kanban    |    Figma      |     HTML      |   WordPress   |
-|  Gantt chart  |   Adobe Xd    |     CSS       |               |
-|               |               |  javaScript   |               |
-|               |               |  Bootstrap    |               |
 
 <div align="center">
+  |   Planning    |   Designing   |    Coding     |      CMS      |
+  |     :---:     |     :---:     |     :---:     |     :---:     |
+  |     Kanban    |    Figma      |     HTML      |   WordPress   |
+  |  Gantt chart  |   Adobe Xd    |     CSS       |               |
+  |               |               |  javaScript   |               |
+  |               |               |  Bootstrap    |               |
+</div>
 
-Planning | Designing | Coding
-:---: | :---: | :---:
-Kanban board | Figma | HTML
+<div align="center">
+Planning | Designing | Coding | CMS
+:---: | :---: | :---: | :---:
+Kanban board | Figma | HTML | WordPress
 </div>
 
 <!--
