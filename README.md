@@ -20,9 +20,18 @@
 - Kanban board
 - Gantt chart
 
-### Desining:
+### Designing:
 - Figma
 - Adobe Xd
+
+### Coding:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### CMS:
+- WordPress
 
 <!--
 **Tanix98/Tanix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
