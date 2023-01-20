@@ -18,7 +18,7 @@
  
 |   Planning    |   Designing   |    Coding     |      CMS      |
 | ------------- | ------------- | ------------- | ------------- |
-|    Kanban     |    Figma      |     HTML      |   WordPress   |
+|    <p align="center">Kanban</p>     |    Figma      |     HTML      |   WordPress   |
 |  Gantt chart  |   Adobe Xd    |     CSS       |               |
 |               |               |  javaScript   |               |
 |               |               |  Bootstrap    |               |
