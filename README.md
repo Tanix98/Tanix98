@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   
-  |   Skills    |
+  |                            Skills                             |
   |   Planning    |   Designing   |    Coding     |      CMS      |
   |     :---:     |     :---:     |     :---:     |     :---:     |
   | Kanban Board  |    Figma      |     HTML      |   WordPress   |
