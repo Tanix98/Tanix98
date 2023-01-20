@@ -26,13 +26,6 @@
   |               |               |  Bootstrap    |               |
 </div>
 
-<div align="center">
-  
-Planning | Designing | Coding | CMS
-:---: | :---: | :---: | :---:
-Kanban board | Figma | HTML | WordPress
-</div>
-
 <!--
 **Tanix98/Tanix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
