@@ -15,43 +15,13 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress icon" title="WordPress"/>
  </p>
-
-<div display="flex">
-  <div>
-    <p style="bold">Planning:</p>
-    <p>Kanban board</p>
-    <p>Gantt chart</p>
-  </div>
-  <div>
-    <p style="bold">Designing:</p>
-    <p>Figma</p>
-    <p>Adobe Xd</p>
-  </div>
-  <div>
-    <p style="bold">Coding:</p>
-    <p>HTML</p>
-    <p>CSS</p>
-    <p>JavaScript</p>
-    <p>Bootstrap</p>
-  </div>
-  <div>
-    <p style="bold">CMS:</p>
-    <p>WordPress</p>
-  </div>
-</div>
-
-### Designing:
-- Figma
-- Adobe Xd
-
-### Coding:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### CMS:
-- WordPress
+ 
+|   Planning    |   Designing   |    Coding     |      CMS      |
+| ------------- | ------------- | ------------- | ------------- |
+|    Kanban     |    Figma      |     HTML      |   WordPress   |
+|  Gantt chart  |   Adobe Xd    |     CSS       |               |
+|               |               |  javaScript   |               |
+|               |               |  Bootstrap    |               |
 
 <!--
 **Tanix98/Tanix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
