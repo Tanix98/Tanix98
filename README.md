@@ -17,8 +17,8 @@
  </p>
 
 <div>
-  <div>
-    <p style="font-weight: bold">Planning</p>
+  <div style="background-color: white">
+    <p style="bold">Planning:</p>
     <p>Kanban board</p>
     <p>Gantt chart</p>
   </div>
