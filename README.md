@@ -25,7 +25,7 @@
 
 <div align="center">
 
-COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
+Planning | Designing | Coding
 :--- | :---: | ---:
 </br></br>left | center | </br></br>right
 </div>
