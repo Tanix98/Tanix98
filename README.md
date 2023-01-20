@@ -2,12 +2,8 @@
   Hello! 👋
 </h2>
 <p>
-  Hello, my name is Øystein Røstvik 😀 
-  I’m a 24 year old student from Tromsø currently living in Kristiansand. 
-
-  I study Front-end Development at Noroff Higher Vocational College. 
-
-  I have experience designing websites and building them using HTML, CSS, JavaScript and APIs.
+  Hello, my name is Øystein Røstvik 😀
+  I study Front-end Development at Noroff Higher Vocational College, and I have experience with designing websites and building them using HTML, CSS, JavaScript and    APIs.
 </p>
 <p align="center">
   <b>Skills</b>
