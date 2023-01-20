@@ -1,8 +1,7 @@
-<h2 align="center">
-  Hello! 👋
+<h2>
+  Hello! My name is Øystein Røstvik 👋 
 </h2>
 <p>
-  Hello, my name is Øystein Røstvik 😀
   I study Front-end Development at Noroff Higher Vocational College, and I have experience with designing websites and building them using HTML, CSS, JavaScript and    APIs.
 </p>
 <p align="center">
