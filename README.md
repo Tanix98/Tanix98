@@ -26,8 +26,8 @@
 <div align="center">
 
 Planning | Designing | Coding
-:--- | :---: | ---:
-</br></br>left | center | </br></br>right
+:---: | :---: | :---:
+Kanban board | Figma | HTML
 </div>
 
 <!--
