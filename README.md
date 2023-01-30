@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   
-  |   Planning    |   Designing   |    Coding     |      CMS      |
+  |   Planning    |   Designing   |    Coding     |      CMS (headless)      |
   |     :---:     |     :---:     |     :---:     |     :---:     |
   | Kanban Board  |    Figma      |     HTML      |   WordPress   |
   |  Gantt Chart  |   Adobe Xd    |     CSS       |               |
