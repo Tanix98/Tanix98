@@ -6,12 +6,12 @@
 </p>
 <div align="center">
   
-  |   Planning    |   Designing   |    Coding     | Headless CMS  |
-  |     :---:     |     :---:     |     :---:     |     :---:     |
-  | Kanban Board  |    Figma      |     HTML      |   WordPress   |
-  |  Gantt Chart  |   Adobe Xd    |     CSS       |               |
-  |               |               |  javaScript   |               |
-  |               |               |  Bootstrap    |               |
+  |    Planning     |    Designing    |     Coding      |  Headless CMS   |
+  |      :---:      |      :---:      |      :---:      |      :---:      |
+  |  Kanban Board   |     Figma       |      HTML       |    WordPress    |
+  |   Gantt Chart   |    Adobe Xd     |      CSS        |                 |
+  |                 |Adobe Illustrator|   javaScript    |                 |
+  |                 |                 |   Bootstrap     |                 |
 </div>
 
 <!--
