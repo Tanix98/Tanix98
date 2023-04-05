@@ -8,11 +8,11 @@
   
   |    Planning     |    Designing    |     Coding      |  Headless CMS   |
   |      :---:      |      :---:      |      :---:      |      :---:      |
-  |  Kanban Board   |     Figma       |      HTML       |    WordPress    |
-  |   Gantt Chart   |    Adobe Xd     |      CSS        |                 |
-  |                 |Adobe Illustrator|   javaScript    |                 |
-  |                 |                 |   Bootstrap     |                 |
-  |                 |                 |     React       |                 |
+  |  Kanban Board   |     Figma       |      React      |    WordPress    |
+  |   Gantt Chart   |    Adobe Xd     |    Bootstrap    |                 |
+  |                 |Adobe Illustrator|       HTML      |                 |
+  |                 |                 |       CSS       |                 |
+  |                 |                 |    JavaScript   |                 |
 </div>
 
 <!--
