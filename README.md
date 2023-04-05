@@ -12,6 +12,7 @@
   |   Gantt Chart   |    Adobe Xd     |      CSS        |                 |
   |                 |Adobe Illustrator|   javaScript    |                 |
   |                 |                 |   Bootstrap     |                 |
+  |                 |                 |     React       |                 |
 </div>
 
 <!--
