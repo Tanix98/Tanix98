@@ -2,7 +2,7 @@
   Hello! My name is Øystein Røstvik 👋 
 </h2>
 <p>
-  I'm currently studying Webdesign at NTNU Gjøvik, and have previous studied front end development at Noroff. I have experience with designing websites and building them using HTML, CSS, JavaScript and APIs.
+  I'm currently studying webdesign at NTNU Gjøvik, and have previous studied front-end development at Noroff. I have experience with designing websites and building them using HTML, CSS, JavaScript and APIs.
 </p>
 <div align="center">
   
