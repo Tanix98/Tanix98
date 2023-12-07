@@ -10,7 +10,8 @@
   |      :---:      |      :---:      |      :---:      |      :---:      |
   |  Kanban Board   |     Figma       |      React      |    WordPress    |
   |   Gantt Chart   |    Adobe Xd     |    Bootstrap    |                 |
-  |                 |Adobe Illustrator|       HTML      |                 |
+  |                 |Adobe Illustrator|    Tailwind     |                 |
+  |                 |                 |       HTML      |                 |
   |                 |                 |       CSS       |                 |
   |                 |                 |    JavaScript   |                 |
 </div>
