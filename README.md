@@ -11,7 +11,7 @@
   |  Kanban Board   |     Figma       |      React      |    WordPress    |
   |   Gantt Chart   |    Adobe Xd     |    Bootstrap    |                 |
   |                 |Adobe Illustrator|    Tailwind     |                 |
-  |                 |                 |       HTML      |                 |
+  |                 |    Photoshop    |       HTML      |                 |
   |                 |                 |       CSS       |                 |
   |                 |                 |    JavaScript   |                 |
 </div>
