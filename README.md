@@ -9,7 +9,7 @@
   |    Designing    |     Coding      |  Headless CMS   |
   |      :---:      |      :---:      |      :---:      |
   |     Figma       |      React      |    WordPress    |
-  |    Adobe Xd     |    Bootstrap    |                 |
+  |    Adobe Xd     |    Bootstrap    |     Sanity      |
   |Adobe Illustrator|    Tailwind     |                 |
   | Adobe Photoshop |       HTML      |                 |
   |                 |       CSS       |                 |
