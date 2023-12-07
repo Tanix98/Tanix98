@@ -11,7 +11,7 @@
   |     Figma       |      React      |    WordPress    |
   |    Adobe Xd     |    Bootstrap    |                 |
   |Adobe Illustrator|    Tailwind     |                 |
-  |    Photoshop    |       HTML      |                 |
+  | Adobe Photoshop |       HTML      |                 |
   |                 |       CSS       |                 |
   |                 |    JavaScript   |                 |
 </div>
