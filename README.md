@@ -10,10 +10,10 @@
   |      :---:      |      :---:      |      :---:      |
   |     Figma       |      React      |    WordPress    |
   |    Adobe Xd     |    Bootstrap    |                 |
-  |                 |Adobe Illustrator|    Tailwind     |
-  |                 |    Photoshop    |       HTML      |
-  |                 |                 |       CSS       |
-  |                 |                 |    JavaScript   |
+  |Adobe Illustrator|    Tailwind     |                 |
+  |    Photoshop    |       HTML      |                 |
+  |                 |       CSS       |                 |
+  |                 |    JavaScript   |                 |
 </div>
 
 <!--
