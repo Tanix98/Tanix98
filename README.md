@@ -6,14 +6,14 @@
 </p>
 <div align="center">
   
-  |    Designing    |     Coding      |  Headless CMS   |
-  |      :---:      |      :---:      |      :---:      |
-  |     Figma       |      React      |    WordPress    |
-  |    Adobe Xd     |    Bootstrap    |     Sanity      |
-  |Adobe Illustrator|    Tailwind     |                 |
-  | Adobe Photoshop |       HTML      |                 |
-  |                 |       CSS       |                 |
-  |                 |    JavaScript   |                 |
+  |    Designing    |     Coding      |    Libraries    |  Headless CMS   |
+  |      :---:      |      :---:      |      :---:      |      :---:      |
+  |     Figma       |       HTML      |      React      |    WordPress    |
+  |    Adobe Xd     |       CSS       |      Vue 3      |     Sanity      |
+  |Adobe Illustrator|    JavaScript   |    Bootstrap    |                 |
+  | Adobe Photoshop |                 |    Tailwind     |                 |
+  |                 |                 |                 |                 |
+  |                 |                 |                 |                 |
 </div>
 
 <!--
