@@ -13,7 +13,6 @@
   |Adobe Illustrator|    JavaScript   |    Bootstrap    |                 |
   | Adobe Photoshop |                 |    Tailwind     |                 |
   |                 |                 |                 |                 |
-  |                 |                 |                 |                 |
 </div>
 
 <!--
