@@ -12,7 +12,6 @@
   |    Adobe Xd     |       CSS       |      Vue 3      |     Sanity      |
   |Adobe Illustrator|    JavaScript   |    Bootstrap    |                 |
   | Adobe Photoshop |                 |    Tailwind     |                 |
-  |                 |                 |                 |                 |
 </div>
 
 <!--
