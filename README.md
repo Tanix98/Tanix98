@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   
-  |    Designing    |    Languages    |    Libraries    |  Headless CMS   |
+  |      Design     |    Languages    |    Libraries    |  Headless CMS   |
   |      :---:      |      :---:      |      :---:      |      :---:      |
   |     Figma       |       HTML      |      React      |    WordPress    |
   |    Adobe Xd     |       CSS       |      Vue 3      |     Sanity      |
