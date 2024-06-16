@@ -6,12 +6,12 @@
 </p>
 <div align="center">
   
-  |      Design     |    Languages    |Libraries&Frameworks|  Headless CMS   |
-  |      :---:      |      :---:      |       :---:        |      :---:      |
-  |     Figma       |       HTML      |       React        |    WordPress    |
-  |    Adobe Xd     |       CSS       |       Vue 3        |     Sanity      |
-  |Adobe Illustrator|    JavaScript   |     Bootstrap      |                 |
-  | Adobe Photoshop |                 |     Tailwind       |                 |
+  |      Design     |    Languages    |Libraries & Frameworks|  Headless CMS   |
+  |      :---:      |      :---:      |        :---:         |      :---:      |
+  |     Figma       |       HTML      |        React         |    WordPress    |
+  |    Adobe Xd     |       CSS       |        Vue 3         |     Sanity      |
+  |Adobe Illustrator|    JavaScript   |      Bootstrap       |                 |
+  | Adobe Photoshop |                 |      Tailwind        |                 |
 </div>
 
 <!--
